@@ -1,0 +1,4 @@
+﻿  pract12.cpp
+C:\Users\st310-02\Desktop\shvets\pract12_cpp-main\pract12.cpp(170,23): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+C:\Users\st310-02\Desktop\shvets\pract12_cpp-main\pract12.cpp(247,27): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+  pract12.vcxproj -> C:\Users\st310-02\Desktop\shvets\pract12_cpp-main\x64\Debug\pract12.exe
